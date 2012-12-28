@@ -207,6 +207,8 @@ public enum Material {
     WOOD_BUTTON(143, Button.class),
     SKULL(144, Skull.class),
     ANVIL(145),
+    //Ajouts d'Eternia
+    COAL_BLOCK(146),
     // ----- Item Separator -----
     IRON_SPADE(256, 1, 250),
     IRON_PICKAXE(257, 1, 250),
